@@ -3,8 +3,4 @@ class Solution:
         
         pal = [x for x in words if x == x[::-1]]
 
-        for s in words:
-            if s in pal:
-                return s
-
-        return ""
+        return pal[0] if len(pal) > 0 else ""
