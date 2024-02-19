@@ -1,16 +1,11 @@
-class Solution(object):
-    def isPowerOfTwo(self, n):
-        """
-        :type n: int
-        :rtype: bool
-        """
-        power = []
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
         x = 0
-        while x < n:
+        a = 0
+        while True:
             a = 2**x
-            if a <= n:
-                power.append(a)
-            else:
-                break
+            if a == n:
+                return True
+            elif a > n:
+                return False
             x += 1
-        return n in power
