@@ -23,4 +23,20 @@
 | [0119-pascals-triangle-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/JeelGajera/problem-leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeelGajera/problem-leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/JeelGajera/problem-leetcode/tree/main/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/JeelGajera/problem-leetcode/tree/main/0101-symmetric-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/JeelGajera/problem-leetcode/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/JeelGajera/problem-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
