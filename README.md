@@ -39,4 +39,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/JeelGajera/problem-leetcode/tree/main/0101-symmetric-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/JeelGajera/problem-leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
