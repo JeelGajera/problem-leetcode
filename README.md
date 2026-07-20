@@ -16,6 +16,7 @@
 | [0119-pascals-triangle-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/JeelGajera/problem-leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeelGajera/problem-leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1260-shift-2d-grid](https://github.com/JeelGajera/problem-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,12 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/JeelGajera/problem-leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/JeelGajera/problem-leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/JeelGajera/problem-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/JeelGajera/problem-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
