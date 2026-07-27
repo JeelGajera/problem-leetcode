@@ -17,6 +17,7 @@
 | [0120-triangle](https://github.com/JeelGajera/problem-leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeelGajera/problem-leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1260-shift-2d-grid](https://github.com/JeelGajera/problem-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +54,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/JeelGajera/problem-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
