@@ -16,6 +16,7 @@
 | [0119-pascals-triangle-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/JeelGajera/problem-leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeelGajera/problem-leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/JeelGajera/problem-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1260-shift-2d-grid](https://github.com/JeelGajera/problem-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1470-shuffle-the-array/) | Easy |
