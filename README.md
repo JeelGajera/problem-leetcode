@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeelGajera/problem-leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1260-shift-2d-grid](https://github.com/JeelGajera/problem-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
