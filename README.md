@@ -17,6 +17,7 @@
 | [0120-triangle](https://github.com/JeelGajera/problem-leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeelGajera/problem-leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/JeelGajera/problem-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/JeelGajera/problem-leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1260-shift-2d-grid](https://github.com/JeelGajera/problem-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -61,6 +62,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/JeelGajera/problem-leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/JeelGajera/problem-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
@@ -71,4 +73,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/JeelGajera/problem-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/JeelGajera/problem-leetcode/tree/main/0645-set-mismatch/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/JeelGajera/problem-leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
