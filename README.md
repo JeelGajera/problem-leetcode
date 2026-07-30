@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JeelGajera/problem-leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/JeelGajera/problem-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -96,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/JeelGajera/problem-leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
