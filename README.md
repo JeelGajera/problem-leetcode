@@ -10,6 +10,7 @@
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JeelGajera/problem-leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | [0645-set-mismatch](https://github.com/JeelGajera/problem-leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JeelGajera/problem-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/JeelGajera/problem-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JeelGajera/problem-leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/JeelGajera/problem-leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JeelGajera/problem-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JeelGajera/problem-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
