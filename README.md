@@ -95,6 +95,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/JeelGajera/problem-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JeelGajera/problem-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
