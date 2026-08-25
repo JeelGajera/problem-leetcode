@@ -33,6 +33,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JeelGajera/problem-leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JeelGajera/problem-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/JeelGajera/problem-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@
 | [0645-set-mismatch](https://github.com/JeelGajera/problem-leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JeelGajera/problem-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeelGajera/problem-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JeelGajera/problem-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/JeelGajera/problem-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
