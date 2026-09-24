@@ -33,6 +33,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JeelGajera/problem-leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/JeelGajera/problem-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JeelGajera/problem-leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JeelGajera/problem-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/JeelGajera/problem-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
@@ -96,6 +97,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JeelGajera/problem-leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/JeelGajera/problem-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JeelGajera/problem-leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JeelGajera/problem-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
