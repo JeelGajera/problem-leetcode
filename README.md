@@ -48,11 +48,13 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/JeelGajera/problem-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JeelGajera/problem-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/JeelGajera/problem-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/JeelGajera/problem-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JeelGajera/problem-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/JeelGajera/problem-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/JeelGajera/problem-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JeelGajera/problem-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/JeelGajera/problem-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/JeelGajera/problem-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/JeelGajera/problem-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JeelGajera/problem-leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/JeelGajera/problem-leetcode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/JeelGajera/problem-leetcode/tree/main/0739-daily-temperatures/) | Medium |
